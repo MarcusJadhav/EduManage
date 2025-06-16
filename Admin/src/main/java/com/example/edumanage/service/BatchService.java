@@ -2,6 +2,7 @@ package com.example.edumanage.service;
 
 import com.example.edumanage.dto.BatchDTO;
 import com.example.edumanage.model.Batch;
+import com.example.edumanage.model.Student;
 import com.example.edumanage.model.Trainer;
 import com.example.edumanage.repository.BatchRepository;
 import com.example.edumanage.repository.StudentRepository;
